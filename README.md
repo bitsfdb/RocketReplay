@@ -40,7 +40,7 @@ Because Epic Games strictly controls third-party API access, this bot uses a tru
 
 1. Type `/fetch_replays` in your Discord server.
 2. The bot will reply privately with a specific Epic Games login link. Click it and log in.
-3. **Important:** After logging in, your browser will redirect to a broken page that says "This site can't be reached" or "localhost refused to connect". **This is completely normal!**
+3. **Important:** After logging in, your browser might redirect to a broken page that says "This site can't be reached" or "localhost refused to connect". **This is completely normal!**
 4. Look at the URL bar at the top of your browser. It will look like this:
    `https://localhost/launcher/authorized?code=a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6`
 5. Copy that 32-character code, click the **Enter Code** button in Discord, and paste it in.
