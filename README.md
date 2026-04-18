@@ -18,8 +18,8 @@ This bot uses a multi-step Epic Games authentication flow to communicate directl
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/bitsfdb/rocket-league-replay-bot.git](https://github.com/bitsfdb/rocket-league-replay-bot.git)
-   cd rocket-league-replay-bot
+   git clone [https://github.com/bitsfdb/RocketReplay.git](https://github.com/bitsfdb/RocketReplay.git)
+   cd RocketReplay
    ```
 
 2. **Set up your environment variables:**
